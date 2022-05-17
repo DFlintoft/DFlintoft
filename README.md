@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dan
 - 👀 I’m interested in ML/AI, data analysis & visualisation
 - 🌱 I’m currently learning Java/Python
-- 💞️ I’m looking to collaborate on ML projects for renewable energy/climate change
+- 💞️ I’m looking to collaborate on ML projects for AI reinforcement learning
 - 📫 How to reach me: Twitter - @dflintoft95
 
 <!---
