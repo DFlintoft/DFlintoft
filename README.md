@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Dan
 - 👀 I’m interested in ML/AI, data analysis & statistics
 - 🌱 I’m currently learning reinforcement learning, applied to autonomous vehicles
-- 💞️ I’m looking to collaborate on ML projects for reinforcement learning
-- 📫 How to reach me: Twitter - @dflintoft95
+- 💞️ I’m looking to collaborate on ML projects for reinforcement learning or
 
 <!---
 DFlintoft/DFlintoft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
