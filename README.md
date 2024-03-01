@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Dan - An ML Engineer who speicalises in reinforcement learning, and creating evaulation tools and metrics to help people better understand their ML models
-- 👀 I’m interested in ML, data science & statistics
-- 🧑‍💻 I’m currently working on reinforcement learning & object detection
+- 👋 Hi, I’m Dan - An ML Engineer who speicalises in reinforcement learning and computer vision.
+- 👀 I’m interested in ML, data science & statistics, particularly in fintech
+- 🧑‍💻 I’m currently working on qLoRA methods for fine-tuning LLMs
 - 🌱 I'm currently developing my skillset in LLMs
 
 <!---
