@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dan - An ML Engineer, going down the homelab rabbit hole.
+- 👋 Hi, I’m Dan - An ML Engineer currently going down the homelab rabbit hole.
 - 👀 I’m interested in ML, data science, and software engineering. Particularly applied in fintech
 
 
